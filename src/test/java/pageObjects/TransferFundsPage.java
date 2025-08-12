@@ -41,7 +41,7 @@ public class TransferFundsPage extends BasePage{
 		);
 
 		String transferMessage = messageElement.getText().trim();
-		System.out.println("Transfer successfully: " + transferMessage);
+		System.out.println("Transfer successfully12: " + transferMessage);
 
 	}
 
